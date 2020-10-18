@@ -1,0 +1,6 @@
+AmigaMouseJoyEmu KEYWORD1
+
+setTimings KEYWORD2
+setMouseButtons KEYWORD2
+addMove KEYWORD2
+move KEYWORD2

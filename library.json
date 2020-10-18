@@ -1,0 +1,13 @@
+{
+  "name": "AmigaMouseJoyEmu",
+  "keywords": "amiga, mouse, joystick",
+  "description": "Library to emulate Amiga Mouse or joystick",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrasbiro/AmigaMouseJoyEmu.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "version": "0.1"
+}
