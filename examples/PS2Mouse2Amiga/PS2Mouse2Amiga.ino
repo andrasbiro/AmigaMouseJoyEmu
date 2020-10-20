@@ -20,7 +20,7 @@ void setup()
 int buttonData;
 void loop()
 {
-  int data[2];
+  int data[3];
   mouse.report(data); //read the data from PS2
   if ( buttonData != data[0] ){ //if button values did change, update it on the Amiga
     amigaMJE.setMouseButtons(data[0] & 0x01, data[0] & 0x02, data[0] & 0x04);
